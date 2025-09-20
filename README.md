@@ -1,6 +1,6 @@
 # Convenient Models
 
-desc
+Inverse Cube etc.
 
 ## Install
 
@@ -16,7 +16,7 @@ https://github.com/Narazaka/ConvenientModels/releases/latest から `net.narazak
 
 ## Usage
 
-TODO
+Packages/Convenient Modelsからモデルを使う
 
 ## License
 
